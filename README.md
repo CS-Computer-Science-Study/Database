@@ -2,7 +2,7 @@
 
 ## ⭐️ 진행방식
 - 주 1회 오프라인 모임
-- 각 주차마다 스터디원 1명씩 발표
+- 각 주차마다 스터디원 1명씩 발표 (https://github.com/VSFe/Tech-Interview/blob/main/04-DATABASE.md 2개씩 진행)
 - 자료는 깃허브에 업로드 예정
 - 단방향보다는 양방향을 지향 (질문 대환영)
 - **함께 고민하고, 공부하는 시간**
@@ -11,6 +11,8 @@
 
 |          발표일           |                                       주제                                        |       발표자료  |
 | :---------------------: | :-----------------------------------------------------------------------------: | :--------: |
+| 24.09.02 | OT |  [0. OT](https://github.com/CS-Computer-Science-Study/Database/blob/main/OT.pdf) |
+| 24.09.02 | 1. MySQL, Key, NoSQL (1,2) |  [1. MySQL, Key, NoSQL.pdf](https://github.com/CS-Computer-Science-Study/Database/blob/main/1.%20MySQL%2C%20Key%2C%20NoSQL.pdf) |
 
 
 
@@ -29,15 +31,6 @@
     <th align="center" width="150px">
       <a href="https://github.com/kamothi"><img height="120px" width="120px" src="https://avatars.githubusercontent.com/kamothi?v=4"/></a>
     </th>
-    <th align="center" width="150px">
-      <a href="https://github.com/MinboyKim"><img height="120px" width="120px" src="https://avatars.githubusercontent.com/MinboyKim?v=4"/></a>
-    </th>
-    <th align="center" width="150px">
-      <a href="https://github.com/yunuo46"><img height="120px" width="120px" src="https://avatars.githubusercontent.com/yunuo46?v=4"/></a>
-    </th>
-    <th align="center" width="150px">
-      <a href="https://github.com/window9u"><img height="120px" width="120px" src="https://avatars.githubusercontent.com/window9u?v=4"/></a>
-    </th>
   </tr>
   <tr>
     <td align="center" width="150px">
@@ -52,6 +45,22 @@
     <td align="center" width="150px">
       <a href="https://github.com/kamothi"><strong>kwang il</strong></a>
     </td>
+
+
+  </tr>
+  <tr>
+        <td align="center" width="150px">
+      <a href="https://github.com/MinboyKim"><img height="120px" width="120px" src="https://avatars.githubusercontent.com/MinboyKim?v=4"/></a>
+    </td>
+    <td align="center" width="150px">
+      <a href="https://github.com/yunuo46"><img height="120px" width="120px" src="https://avatars.githubusercontent.com/yunuo46?v=4"/></a>
+    </td>
+    <td align="center" width="150px">
+      <a href="https://github.com/window9u"><img height="120px" width="120px" src="https://avatars.githubusercontent.com/window9u?v=4"/></a>
+    </td>
+  </tr>
+    
+  <tr>
     <td align="center" width="150px">
       <a href="https://github.com/MinboyKim"><strong>MinboyKim</strong></a>
     </td>
@@ -61,7 +70,6 @@
     <td align="center" width="150px">
       <a href="https://github.com/window9u"><strong>Changyu Moon</strong></a>
     </td>
-
   </tr>
 </table>
   
