@@ -9,10 +9,10 @@
 
 ## 📆 스터디 일정(24.09.02 ~ 진행 중)
 
-|          발표일           |                                       주제                                        |       발표자료  |
-| :---------------------: | :-----------------------------------------------------------------------------: | :--------: |
-| 24.09.02 | OT |  [0. OT](https://github.com/CS-Computer-Science-Study/Database/blob/main/OT.pdf) |
-| 24.09.02 | 1. MySQL, Key, NoSQL (1,2) |  [1. MySQL, Key, NoSQL.pdf](https://github.com/CS-Computer-Science-Study/Database/blob/main/1.%20MySQL%2C%20Key%2C%20NoSQL.pdf) |
+|          발표일           |                                       주제                                        |       발표자료  | 발표자|
+| :---------------------: | :-----------------------------------------------------------------------------: | :--------: | :--------: |
+| 24.09.02 | OT |  [0. OT](https://github.com/CS-Computer-Science-Study/Database/blob/main/OT.pdf) |<a href="https://github.com/david-parkk"><strong>박지원</strong></a> |
+| 24.09.02 | 1. MySQL, Key, NoSQL (1,2) |  [1. MySQL, Key, NoSQL.pdf](https://github.com/CS-Computer-Science-Study/Database/blob/main/1.%20MySQL%2C%20Key%2C%20NoSQL.pdf) |<a href="https://github.com/david-parkk"><strong>박지원</strong></a> |
 
 
 
