@@ -13,6 +13,8 @@
 | :---------------------: | :-----------------------------------------------------------------------------: | :--------: | :--------: |
 | 24.09.02 | OT |  [0. OT](https://github.com/CS-Computer-Science-Study/Database/blob/main/OT.pdf) |<a href="https://github.com/david-parkk"><strong>박지원</strong></a> |
 | 24.09.02 | 1. MySQL, Key, NoSQL (1,2) |  [1. MySQL, Key, NoSQL.pdf](https://github.com/CS-Computer-Science-Study/Database/blob/main/1.%20MySQL%2C%20Key%2C%20NoSQL.pdf) |<a href="https://github.com/david-parkk"><strong>박지원</strong></a> |
+| 24.09.26 | 2. Transaction (3, 4) |   |<a href="https://github.com/eogns47"><strong>강대훈</strong></a> |
+| 24.10.10 | 3. Index, Clustering, Replication (5, 6) |  [3. Index, Clustering, Replication.pdf](https://github.com/CS-Computer-Science-Study/Database/blob/main/3.%20index%2C%20clustering%2C%20replication.pdf) |<a href="https://github.com/redcarrot1"><strong>홍승택</strong></a> |
 
 
 
