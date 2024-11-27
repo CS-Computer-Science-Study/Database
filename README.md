@@ -1,6 +1,7 @@
 # 📚 Database Study
 
 ## ⭐️ 진행방식
+
 - 주 1회 오프라인 모임
 - 각 주차마다 스터디원 1명씩 발표 (https://github.com/VSFe/Tech-Interview/blob/main/04-DATABASE.md 2개씩 진행)
 - 자료는 깃허브에 업로드 예정
@@ -9,17 +10,17 @@
 
 ## 📆 스터디 일정(24.09.02 ~ 진행 중)
 
-|          발표일           |                                       주제                                        |       발표자료  | 발표자|
-| :---------------------: | :-----------------------------------------------------------------------------: | :--------: | :--------: |
-| 24.09.02 | OT |  [0. OT](https://github.com/CS-Computer-Science-Study/Database/blob/main/OT.pdf) |<a href="https://github.com/david-parkk"><strong>박지원</strong></a> |
-| 24.09.02 | 1. MySQL, Key, NoSQL (1,2) |  [1. MySQL, Key, NoSQL.pdf](https://github.com/CS-Computer-Science-Study/Database/blob/main/1.%20MySQL%2C%20Key%2C%20NoSQL.pdf) |<a href="https://github.com/david-parkk"><strong>박지원</strong></a> |
-| 24.09.26 | 2. Transaction (3, 4) |   |<a href="https://github.com/eogns47"><strong>강대훈</strong></a> |
-| 24.10.10 | 3. Index, Clustering, Replication (5, 6) |  [3. Index, Clustering, Replication.pdf](https://github.com/CS-Computer-Science-Study/Database/blob/main/3.%20index%2C%20clustering%2C%20replication.pdf) |<a href="https://github.com/redcarrot1"><strong>홍승택</strong></a> |
-| 24.10.31 | 4. Normalization, View (7, 8) | [4. Normalization, View.pdf](https://github.com/user-attachments/files/17586536/normalization.pdf) |<a href="https://github.com/yunuo46"><strong>송현우</strong></a> |
-
-
+|  발표일  |                   주제                   |                                                                         발표자료                                                                         |                                발표자                                |
+| :------: | :--------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------: |
+| 24.09.02 |                    OT                    |                                     [0. OT](https://github.com/CS-Computer-Science-Study/Database/blob/main/OT.pdf)                                      | <a href="https://github.com/david-parkk"><strong>박지원</strong></a> |
+| 24.09.02 |        1. MySQL, Key, NoSQL (1,2)        |              [1. MySQL, Key, NoSQL.pdf](https://github.com/CS-Computer-Science-Study/Database/blob/main/1.%20MySQL%2C%20Key%2C%20NoSQL.pdf)              | <a href="https://github.com/david-parkk"><strong>박지원</strong></a> |
+| 24.09.26 |          2. Transaction (3, 4)           |                                                                                                                                                          |   <a href="https://github.com/eogns47"><strong>강대훈</strong></a>   |
+| 24.10.10 | 3. Index, Clustering, Replication (5, 6) | [3. Index, Clustering, Replication.pdf](https://github.com/CS-Computer-Science-Study/Database/blob/main/3.%20index%2C%20clustering%2C%20replication.pdf) | <a href="https://github.com/redcarrot1"><strong>홍승택</strong></a>  |
+| 24.10.31 |      4. Normalization, View (7, 8)       |                            [4. Normalization, View.pdf](https://github.com/user-attachments/files/17586536/normalization.pdf)                            |   <a href="https://github.com/yunuo46"><strong>송현우</strong></a>   |
+| 24.11.21 |   5. Schema, Connection Pool (13, 14)    |                     [5. Schema, Connection Pool.pdf](https://github.com/user-attachments/files/17932964/Schema.Connection.Pool.pdf)                      |  <a href="https://github.com/MinboyKim"><strong>김동민</strong></a>  |
 
 ## 🙆‍♂️🙆 함께 공부하는 사람들
+
 <table>
   <tr height="160px">
     <th align="center" width="150px">
@@ -49,7 +50,6 @@
       <a href="https://github.com/kamothi"><strong>kwang il</strong></a>
     </td>
 
-
   </tr>
   <tr>
         <td align="center" width="150px">
@@ -75,4 +75,3 @@
     </td>
   </tr>
 </table>
-  
