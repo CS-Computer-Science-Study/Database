@@ -21,7 +21,7 @@
 | 24.11.14 |             6. Lock (11, 12)             |                                   [6. Lock.pdf](https://github.com/user-attachments/files/17586536/normalization.pdf)                                    |  <a href="https://github.com/window9u"><strong>문찬규</strong></a>   |
 | 24.11.21 |   7. Schema, Connection Pool (13, 14)    |                     [7. Schema, Connection Pool.pdf](https://github.com/user-attachments/files/17932964/Schema.Connection.Pool.pdf)                      |  <a href="https://github.com/MinboyKim"><strong>김동민</strong></a>  |
 | 24.11.28 |        8. SQL injection (15, 16)         |                          [8. SQL injection.pdf](https://github.com/user-attachments/files/17932964/Schema.Connection.Pool.pdf)                           |   <a href="https://github.com/yunuo46"><strong>송현우</strong></a>   |
-| 24.12.05 |                   모의면접                   |                          [8. SQL injection.pdf](https://github.com/user-attachments/files/17932964/Schema.Connection.Pool.pdf)                           |   <a href="https://github.com/yunuo46"><strong>송현우</strong></a>   |
+| 24.12.05 |                   모의면접                   |                          [면접 질문지 ](https://github.com/CS-Computer-Science-Study/Database/blob/main/interview/interview.md)                           |   <strong>스터디원 전원</strong></a>   |
 
 
 ## 🙆‍♂️🙆 함께 공부하는 사람들
