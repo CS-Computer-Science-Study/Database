@@ -8,7 +8,7 @@
 - 단방향보다는 양방향을 지향 (질문 대환영)
 - **함께 고민하고, 공부하는 시간**
 
-## 📆 스터디 일정(24.09.02 ~ 진행 중)
+## 📆 스터디 일정(24.09.02 ~ 24.12.05)
 
 |  발표일  |                   주제                   |                                                                         발표자료                                                                         |                                발표자                                |
 | :------: | :--------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------: |
@@ -17,10 +17,10 @@
 | 24.09.26 |          2. Transaction (3, 4)           |                                [2. Transaction](https://github.com/CS-Computer-Science-Study/Database/blob/main/week2/2.%20Transaction.pdf         )                                                                                                              |   <a href="https://github.com/eogns47"><strong>강대훈</strong></a>   |
 | 24.10.10 | 3. Index, Clustering, Replication (5, 6) | [3. Index, Clustering, Replication.pdf](https://github.com/CS-Computer-Science-Study/Database/blob/main/3.%20index%2C%20clustering%2C%20replication.pdf) | <a href="https://github.com/redcarrot1"><strong>홍승택</strong></a>  |
 | 24.10.31 |      4. Normalization, View (7, 8)       |                            [4. Normalization, View.pdf](https://github.com/user-attachments/files/17586536/normalization.pdf)                            |   <a href="https://github.com/yunuo46"><strong>송현우</strong></a>   |
-| 24.11.07 |      5. Join, B-Tree (9, 10)       |                            [5. Join, B-Tree.pdf](https://github.com/user-attachments/files/17586536/normalization.pdf)                            |   <a href="https://github.com/kamothi"><strong>김광일</strong></a>   |
-| 24.11.14 |      6. Lock (11, 12)       |                            [6. Lock.pdf](https://github.com/user-attachments/files/17586536/normalization.pdf)                            |   <a href="https://github.com/window9u"><strong>문찬규</strong></a>   |
+| 24.11.07 |      5. Join, B-Tree (9, 10)       |                            [5. Join, B-Tree.pdf](https://github.com/CS-Computer-Science-Study/Database/blob/main/Join%20B-tree.pdf)                            |   <a href="https://github.com/kamothi"><strong>김광일</strong></a>   |
+| 24.11.14 |      6. Lock (11, 12)       |                            [6. Database internals.pdf](https://github.com/CS-Computer-Science-Study/Database/blob/main/Database%20internals.pdf)                            |   <a href="https://github.com/window9u"><strong>문찬규</strong></a>   |
 | 24.11.21 |   7. Schema, Connection Pool (13, 14)    |                     [7. Schema, Connection Pool.pdf](https://github.com/user-attachments/files/17932964/Schema.Connection.Pool.pdf)                      |  <a href="https://github.com/MinboyKim"><strong>김동민</strong></a>  |
-| 24.11.28 |   8. SQL injection (15, 16)    |                     [8. SQL injection.pdf](https://github.com/user-attachments/files/17932964/Schema.Connection.Pool.pdf)                      |  <a href="https://github.com/yunuo46"><strong>송현우</strong></a>  |
+| 24.11.28 |   8. SQL injection (15, 16)    |                     [8. SQL injection.pdf](https://github.com/CS-Computer-Science-Study/Database/blob/main/SQL%20Injection.pdf)                      |  <a href="https://github.com/yunuo46"><strong>송현우</strong></a>  |
 
 ## 🙆‍♂️🙆 함께 공부하는 사람들
 
