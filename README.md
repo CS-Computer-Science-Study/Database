@@ -8,7 +8,7 @@
 - 단방향보다는 양방향을 지향 (질문 대환영)
 - **함께 고민하고, 공부하는 시간**
 
-## 📆 스터디 일정(24.09.02 ~ 진행 중)
+## 📆 스터디 일정(24.09.02 ~ 24.12.05)
 
 |   발표일    |                    주제                    |                                                                           발표자료                                                                           |                                발표자                                |
 |:--------:|:----------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------:|
@@ -22,6 +22,8 @@
 | 24.11.21 |   7. Schema, Connection Pool (13, 14)    |                     [7. Schema, Connection Pool.pdf](https://github.com/user-attachments/files/17932964/Schema.Connection.Pool.pdf)                      |  <a href="https://github.com/MinboyKim"><strong>김동민</strong></a>  |
 | 24.11.28 |        8. SQL injection (15, 16)         |                          [8. SQL injection.pdf](https://github.com/user-attachments/files/17932964/Schema.Connection.Pool.pdf)                           |   <a href="https://github.com/yunuo46"><strong>송현우</strong></a>   |
 | 24.12.05 |                   모의면접                   |                          [8. SQL injection.pdf](https://github.com/user-attachments/files/17932964/Schema.Connection.Pool.pdf)                           |   <a href="https://github.com/yunuo46"><strong>송현우</strong></a>   |
+
+
 ## 🙆‍♂️🙆 함께 공부하는 사람들
 
 <table>
