@@ -10,18 +10,18 @@
 
 ## 📆 스터디 일정(24.09.02 ~ 진행 중)
 
-|  발표일  |                   주제                   |                                                                         발표자료                                                                         |                                발표자                                |
-| :------: | :--------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------: |
+|   발표일    |                    주제                    |                                                                           발표자료                                                                           |                                발표자                                |
+|:--------:|:----------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------:|
 | 24.09.02 |                    OT                    |                                     [0. OT](https://github.com/CS-Computer-Science-Study/Database/blob/main/OT.pdf)                                      | <a href="https://github.com/david-parkk"><strong>박지원</strong></a> |
 | 24.09.11 |        1. MySQL, Key, NoSQL (1,2)        |              [1. MySQL, Key, NoSQL.pdf](https://github.com/CS-Computer-Science-Study/Database/blob/main/1.%20MySQL%2C%20Key%2C%20NoSQL.pdf)              | <a href="https://github.com/david-parkk"><strong>박지원</strong></a> |
-| 24.09.26 |          2. Transaction (3, 4)           |                                [2. Transaction](https://github.com/CS-Computer-Science-Study/Database/blob/main/week2/2.%20Transaction.pdf         )                                                                                                              |   <a href="https://github.com/eogns47"><strong>강대훈</strong></a>   |
+| 24.09.26 |          2. Transaction (3, 4)           |                  [2. Transaction](https://github.com/CS-Computer-Science-Study/Database/blob/main/week2/2.%20Transaction.pdf         )                   |   <a href="https://github.com/eogns47"><strong>강대훈</strong></a>   |
 | 24.10.10 | 3. Index, Clustering, Replication (5, 6) | [3. Index, Clustering, Replication.pdf](https://github.com/CS-Computer-Science-Study/Database/blob/main/3.%20index%2C%20clustering%2C%20replication.pdf) | <a href="https://github.com/redcarrot1"><strong>홍승택</strong></a>  |
 | 24.10.31 |      4. Normalization, View (7, 8)       |                            [4. Normalization, View.pdf](https://github.com/user-attachments/files/17586536/normalization.pdf)                            |   <a href="https://github.com/yunuo46"><strong>송현우</strong></a>   |
-| 24.11.07 |      5. Join, B-Tree (9, 10)       |                            [5. Join, B-Tree.pdf](https://github.com/user-attachments/files/17586536/normalization.pdf)                            |   <a href="https://github.com/kamothi"><strong>김광일</strong></a>   |
-| 24.11.14 |      6. Lock (11, 12)       |                            [6. Lock.pdf](https://github.com/user-attachments/files/17586536/normalization.pdf)                            |   <a href="https://github.com/window9u"><strong>문찬규</strong></a>   |
+| 24.11.07 |         5. Join, B-Tree (9, 10)          |                               [5. Join, B-Tree.pdf](https://github.com/user-attachments/files/17586536/normalization.pdf)                                |   <a href="https://github.com/kamothi"><strong>김광일</strong></a>   |
+| 24.11.14 |             6. Lock (11, 12)             |                                   [6. Lock.pdf](https://github.com/user-attachments/files/17586536/normalization.pdf)                                    |  <a href="https://github.com/window9u"><strong>문찬규</strong></a>   |
 | 24.11.21 |   7. Schema, Connection Pool (13, 14)    |                     [7. Schema, Connection Pool.pdf](https://github.com/user-attachments/files/17932964/Schema.Connection.Pool.pdf)                      |  <a href="https://github.com/MinboyKim"><strong>김동민</strong></a>  |
-| 24.11.28 |   8. SQL injection (15, 16)    |                     [8. SQL injection.pdf](https://github.com/user-attachments/files/17932964/Schema.Connection.Pool.pdf)                      |  <a href="https://github.com/yunuo46"><strong>송현우</strong></a>  |
-
+| 24.11.28 |        8. SQL injection (15, 16)         |                          [8. SQL injection.pdf](https://github.com/user-attachments/files/17932964/Schema.Connection.Pool.pdf)                           |   <a href="https://github.com/yunuo46"><strong>송현우</strong></a>   |
+| 24.12.05 |                   모의면접                   |                          [8. SQL injection.pdf](https://github.com/user-attachments/files/17932964/Schema.Connection.Pool.pdf)                           |   <a href="https://github.com/yunuo46"><strong>송현우</strong></a>   |
 ## 🙆‍♂️🙆 함께 공부하는 사람들
 
 <table>
@@ -65,7 +65,7 @@
       <a href="https://github.com/window9u"><img height="120px" width="120px" src="https://avatars.githubusercontent.com/window9u?v=4"/></a>
     </td>
   </tr>
-    
+
   <tr>
     <td align="center" width="150px">
       <a href="https://github.com/MinboyKim"><strong>MinboyKim</strong></a>
